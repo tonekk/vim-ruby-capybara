@@ -3,6 +3,8 @@ syntax keyword rubyCapybaraMethod
       \ must_have_css
       \ wont_have_content
       \ wont_have_css
+      \ assert_current_path
+      \ assert_no_current_path
       \ save_screenshot
       \ body
       \ fill_in
